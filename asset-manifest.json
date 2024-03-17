@@ -1,9 +1,7 @@
 {
   "files": {
     "main.css": "/task-test-react-nike/static/css/main.670ecd6a.css",
-    "main.js": "/task-test-react-nike/static/js/main.ed17735c.js",
-    "static/media/slider-image.png": "/task-test-react-nike/static/media/slider-image.dce27601e0aebd281c51.png",
-    "static/media/rectangle6.png": "/task-test-react-nike/static/media/rectangle6.d191c8c54175582b356d.png",
+    "main.js": "/task-test-react-nike/static/js/main.83a62d3b.js",
     "static/media/roboto-bold-webfont.svg": "/task-test-react-nike/static/media/roboto-bold-webfont.fb237bcb1ebcbf854d2f.svg",
     "static/media/roboto-medium-webfont.svg": "/task-test-react-nike/static/media/roboto-medium-webfont.814a5733f489f2acfdb7.svg",
     "static/media/roboto-black-webfont.svg": "/task-test-react-nike/static/media/roboto-black-webfont.09aa956ae2e4ecb030a2.svg",
@@ -12,6 +10,7 @@
     "static/media/roboto-bold-webfont.ttf": "/task-test-react-nike/static/media/roboto-bold-webfont.2ed02cbbd19759ba7543.ttf",
     "static/media/roboto-black-webfont.ttf": "/task-test-react-nike/static/media/roboto-black-webfont.73169a89f72b63073f0a.ttf",
     "static/media/roboto-regular-webfont.ttf": "/task-test-react-nike/static/media/roboto-regular-webfont.81cac3ad892732172eb8.ttf",
+    "static/media/slider-image.jpg": "/task-test-react-nike/static/media/slider-image.1da6b245f474423d51b5.jpg",
     "static/media/roboto-bold-webfont.woff": "/task-test-react-nike/static/media/roboto-bold-webfont.7e4ca99cddf61c298da7.woff",
     "static/media/roboto-black-webfont.woff": "/task-test-react-nike/static/media/roboto-black-webfont.0eea6b8982fcc2aba11c.woff",
     "static/media/roboto-medium-webfont.woff": "/task-test-react-nike/static/media/roboto-medium-webfont.480b7628c6a57a340f8f.woff",
@@ -24,13 +23,14 @@
     "static/media/roboto-black-webfont.woff2": "/task-test-react-nike/static/media/roboto-black-webfont.15d522ec8f2206e4ef91.woff2",
     "static/media/roboto-medium-webfont.woff2": "/task-test-react-nike/static/media/roboto-medium-webfont.2d660601dfaeef8360d6.woff2",
     "static/media/roboto-regular-webfont.woff2": "/task-test-react-nike/static/media/roboto-regular-webfont.9abb9bfd47e0b6a6cbc9.woff2",
+    "static/media/rectangle6.jpg": "/task-test-react-nike/static/media/rectangle6.4eaa73bbeea05ea03f41.jpg",
     "static/media/sprites.png": "/task-test-react-nike/static/media/sprites.e8d17d303abd8e54fd75.png",
     "index.html": "/task-test-react-nike/index.html",
     "main.670ecd6a.css.map": "/task-test-react-nike/static/css/main.670ecd6a.css.map",
-    "main.ed17735c.js.map": "/task-test-react-nike/static/js/main.ed17735c.js.map"
+    "main.83a62d3b.js.map": "/task-test-react-nike/static/js/main.83a62d3b.js.map"
   },
   "entrypoints": [
     "static/css/main.670ecd6a.css",
-    "static/js/main.ed17735c.js"
+    "static/js/main.83a62d3b.js"
   ]
 }
