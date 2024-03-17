@@ -4,6 +4,7 @@ import ArrowPrevGeroy from 'components/ArrowsSvg/ArrowPrevGeroy';
 export default function Geroy() {
   return (
     <div className="geroy">
+      <h1 className="visually_hidden">Разом із Nike</h1>
       <div className="img">
         <img
           className="img-geroy"

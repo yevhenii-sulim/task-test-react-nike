@@ -3,11 +3,8 @@ import MainAccessories from 'pages/MainAccessories';
 import MainMen from 'pages/MainMen';
 import MainShares from 'pages/MainShares';
 import MainWomen from 'pages/MainWomen';
-import data from 'data.json';
-import feedbackData from 'feedbackData.json';
 import { Route, Routes } from 'react-router-dom';
 import Latest from 'pages/Latest';
-console.log(data, feedbackData);
 export default function App() {
   return (
     <Routes>

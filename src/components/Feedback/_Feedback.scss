@@ -17,6 +17,9 @@
   gap: 30px;
   transition: left 250ms ease;
 }
+.review {
+  color: #626262;
+}
 .avatar {
   display: flex;
   gap: 18px;
@@ -33,6 +36,7 @@
   font-size: 16px;
   line-height: 1.875;
   color: $color-text-base;
+  font-family: $font-text-tytle;
 }
 .rating {
   position: relative;

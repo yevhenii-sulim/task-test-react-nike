@@ -1,6 +1,7 @@
 .auxiliary {
   display: flex;
   justify-content: center;
+  align-items: center;
   gap: 10px;
 }
 .auxiliary-link {
@@ -16,7 +17,7 @@
   top: 50%;
   left: 50%;
   transform: translate(-50%, -50%);
-  background-position: -144px -55px;
+  background-position: -144px -53px;
 }
 .auxiliary-link + .auxiliary-link::before {
   top: 50%;
@@ -27,7 +28,11 @@
 
 .search {
   position: relative;
+  width: 282px;
+  height: 40px;
   input {
+    width: 100%;
+    height: 100%;
     border: none;
     outline: none;
     border-radius: 10px;
@@ -39,10 +44,10 @@
   }
   button {
     position: absolute;
-    top: 2px;
+    top: 0px;
     left: 0;
-    width: 26px;
-    height: 26px;
+    width: 40px;
+    height: 40px;
     background: transparent;
   }
 }

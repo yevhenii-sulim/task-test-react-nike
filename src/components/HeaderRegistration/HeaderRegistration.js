@@ -1,4 +1,4 @@
-import { NavLink } from 'react-router-dom';
+import { Link } from 'react-router-dom';
 
 export default function HeaderRegistration() {
   return (
@@ -6,18 +6,18 @@ export default function HeaderRegistration() {
       <div className="container">
         <div className="help">
           <p className="tel-help">098 900 09 09</p>
-          <NavLink to="#" className="link-header">
+          <Link to="#" className="link-header">
             Допомога
-          </NavLink>
+          </Link>
         </div>
         <div className="registration">
-          <NavLink to="#" className="link-header">
+          <Link to="#" className="link-header">
             Увійти
-          </NavLink>
+          </Link>
           /
-          <NavLink to="#" className="link-header">
+          <Link to="#" className="link-header">
             Зареєструватися
-          </NavLink>
+          </Link>
         </div>
       </div>
     </div>
