@@ -1,0 +1,24 @@
+.footer-list {
+  display: flex;
+  justify-content: center;
+  gap: 124px;
+  padding-bottom: 52px;
+  padding-top: 42px;
+  p {
+    width: 100px;
+  }
+}
+.nav-footer {
+  background: $bg-header-top;
+  padding-top: 40px;
+  padding-bottom: 40px;
+  color: $color-light;
+  .container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  p {
+    font-size: 12px;
+  }
+}

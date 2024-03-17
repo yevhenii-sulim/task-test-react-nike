@@ -1,0 +1,37 @@
+.container-item {
+  position: relative;
+}
+.title-clothes {
+  font-size: 20px;
+  line-height: 1.3;
+}
+.img-title {
+  width: 370px;
+  height: 433px;
+}
+.discrabe {
+  margin-top: 8px;
+  margin-bottom: 8px;
+}
+.price {
+  color: $color-text-price;
+  font-family: 'robotobold';
+}
+.like {
+  position: absolute;
+  top: 0;
+  right: 0;
+  transform: translate(-50%, 50%);
+  width: 35px;
+  height: 35px;
+  border-radius: 50%;
+  background: $bg-like;
+}
+.like::before {
+  width: 16px;
+  height: 16px;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  background-position: -187px -114px;
+}

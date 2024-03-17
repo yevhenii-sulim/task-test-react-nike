@@ -1,0 +1,74 @@
+[
+  {
+    "img":"/task-test-react-nike/rectangle4.png",
+    "alt":"Термобілизна для бодібілдерів",
+    "titleItem":"Термобілизна для бодібілдерів",
+    "section":"для чоловіків",
+    "option":"2 кольори",
+    "price": "4000 грн."
+  },
+  {
+    "img":"/task-test-react-nike/rectangle-girl4.png",
+    "alt":"Майка для бодібілдерів",
+    "titleItem":"Майка для бодібілдерів",
+    "section":"для жінок",
+    "option":"6 кольорів",
+    "price": "1100 грн."
+  },
+  {
+    "img":"/task-test-react-nike/chain.png",
+    "alt":"Ланцюжок для бодібілдерів",
+    "titleItem":"Ланцюжок для бодібілдерів",
+    "section":"Аксесуари",
+    "option":"30 кг.",
+    "price": "2000 грн."
+  },
+  {
+    "img":"/task-test-react-nike/rectangle4.png",
+    "alt":"Термобілизна для бодібілдерів",
+    "titleItem":"Термобілизна для бодібілдерів 1",
+    "section":"для чоловіків",
+    "option":"2 кольори",
+    "price": "4000 грн."
+  },
+  {
+    "img":"/task-test-react-nike/rectangle-girl4.png",
+    "alt":"Майка для бодібілдерів",
+    "titleItem":"Майка для бодібілдерів 1",
+    "section":"для жінок",
+    "option":"6 кольорів",
+    "price": "1100 грн."
+  },
+  {
+    "img":"/task-test-react-nike/chain.png",
+    "alt":"Ланцюжок для бодібілдерів",
+    "titleItem":"Ланцюжок для бодібілдерів 1",
+    "section":"Аксесуари",
+    "option":"30 кг.",
+    "price": "2000 грн."
+  },
+  {
+    "img":"/task-test-react-nike/rectangle4.png",
+    "alt":"Термобілизна для бодібілдерів",
+    "titleItem":"Термобілизна для бодібілдерів 2",
+    "section":"для чоловіків",
+    "option":"2 кольори",
+    "price": "4000 грн."
+  },
+  {
+    "img":"/task-test-react-nike/rectangle-girl4.png",
+    "alt":"Майка для бодібілдерів",
+    "titleItem":"Майка для бодібілдерів 2",
+    "section":"для жінок",
+    "option":"6 кольорів",
+    "price": "1100 грн."
+  },
+  {
+    "img":"/task-test-react-nike/chain.png",
+    "alt":"Ланцюжок для бодібілдерів",
+    "titleItem":"Ланцюжок для бодібілдерів 2",
+    "section":"Аксесуари",
+    "option":"30 кг.",
+    "price": "2000 грн."
+  }
+]

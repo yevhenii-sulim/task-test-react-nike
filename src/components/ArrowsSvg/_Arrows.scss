@@ -1,0 +1,19 @@
+.arrows {
+  border: none;
+  outline: none;
+  background: transparent;
+  height: 10px;
+  display: flex;
+  align-items: center;
+  svg {
+    fill: #959595;
+  }
+  &:hover svg {
+    fill: #343434;
+  }
+}
+.arrows-geroy {
+  border: none;
+  outline: none;
+  background: transparent;
+}

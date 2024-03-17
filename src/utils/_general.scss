@@ -1,0 +1,39 @@
+.wrapper {
+  font-family: $font-text-base;
+  font-weight: 400;
+  color: $color-text-base;
+  font-size: 16px;
+  line-height: 1.5;
+  * {
+    box-sizing: border-box;
+  }
+}
+img {
+  display: block;
+}
+button {
+  cursor: pointer;
+  border: none;
+  outline: none;
+}
+h1 {
+  font-family: $font-main-title;
+}
+h2,
+h3,
+h4,
+h5 {
+  font-family: $font-text-tytle;
+}
+.sprite {
+  position: relative;
+  display: block;
+}
+.sprite:before {
+  content: '';
+  position: absolute;
+  background-image: url('../img/sprite/sprites.png');
+}
+.rest {
+  text-align: center;
+}

@@ -1,0 +1,25 @@
+.header-header {
+  .container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  padding-top: 14px;
+  padding-bottom: 14px;
+  background: $bg-header-top;
+  color: $color-light;
+}
+
+.help {
+  display: flex;
+  gap: 12px;
+}
+
+.link-header:active {
+  color: #00ffff;
+}
+
+.registration {
+  display: flex;
+  justify-content: center;
+}

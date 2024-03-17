@@ -1,0 +1,12 @@
+.link-header {
+  text-decoration: none;
+  color: inherit;
+  &.active {
+    font-family: $font-text-price;
+  }
+}
+.nav {
+  display: flex;
+  gap: 30px;
+  margin-right: 54px;
+}

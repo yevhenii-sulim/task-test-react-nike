@@ -1,0 +1,17 @@
+.latest-item {
+  padding-bottom: 80px;
+  border-bottom: 2px solid $bg-border;
+}
+.container-list {
+  height: 547px;
+  position: relative;
+  overflow: hidden;
+}
+.item-list {
+  position: absolute;
+  top: 0;
+  left: 0;
+  display: flex;
+  gap: 30px;
+  transition: left 250ms ease;
+}

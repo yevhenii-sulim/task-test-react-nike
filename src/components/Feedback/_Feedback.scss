@@ -1,0 +1,64 @@
+.container-feedback {
+  position: relative;
+  height: 400px;
+  overflow: hidden;
+}
+.users-feedback {
+  border: 1px #000000 solid;
+  border-radius: 10px;
+  padding: 30px 37px 30px 37px;
+  width: 270px;
+}
+.feedback-list {
+  position: absolute;
+  left: 0;
+  top: 0;
+  display: flex;
+  gap: 30px;
+  transition: left 250ms ease;
+}
+.avatar {
+  display: flex;
+  gap: 18px;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 18px;
+  img {
+    width: 50px;
+    height: 50px;
+  }
+}
+
+.name-user {
+  font-size: 16px;
+  line-height: 1.875;
+  color: $color-text-base;
+}
+.rating {
+  position: relative;
+  margin-bottom: 8px;
+}
+
+.star,
+.star-good {
+  position: absolute;
+  top: 50%;
+  left: 0;
+  transform: translateY(-50%);
+}
+.star + .star,
+.star-good + .star-good {
+  left: 12px;
+}
+.star + .star + .star,
+.star-good + .star-good + .star-good {
+  left: 24px;
+}
+.star + .star + .star + .star,
+.star-good + .star-good + .star-good + .star-good {
+  left: 36px;
+}
+.star + .star + .star + .star + .star,
+.star-good + .star-good + .star-good + .star-good + .star-good {
+  left: 48px;
+}
