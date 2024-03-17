@@ -10,7 +10,7 @@ export default function ToCatalog() {
         <button type="button">До каталогу</button>
       </div>
       <div className="img">
-        <img src={require('../../img/img/rectangle6.png')} alt="men" />
+        <img src={require('../../img/img/rectangle6.jpg')} alt="men" />
       </div>
     </div>
   );

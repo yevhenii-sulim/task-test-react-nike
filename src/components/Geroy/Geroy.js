@@ -7,7 +7,7 @@ export default function Geroy() {
       <div className="img">
         <img
           className="img-geroy"
-          src={require('../../img/img/slider-image.png')}
+          src={require('../../img/img/slider-image.jpg')}
           alt="border"
         />
         <div className="arrow-next arrow">
