@@ -19,10 +19,10 @@ export default function ItemList({
       />
       <div className="container-list">
         <ul className="item-list" ref={itemList}>
-          {items.map(({ img, alt, titleItem, option, price, section }) => {
+          {items.map(({ id, img, alt, titleItem, option, price, section }) => {
             return (
               <Item
-                key={titleItem}
+                key={id}
                 img={img}
                 alt={alt}
                 titleItem={titleItem}

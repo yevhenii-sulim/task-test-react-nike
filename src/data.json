@@ -1,5 +1,6 @@
 [
   {
+    "id":"1",
     "img":"/task-test-react-nike/rectangle4.jpg",
     "alt":"Термобілизна для бодібілдерів",
     "titleItem":"Термобілизна для бодібілдерів",
@@ -8,6 +9,7 @@
     "price": "4000 грн."
   },
   {
+    "id":"2",
     "img":"/task-test-react-nike/rectangle-girl4.jpg",
     "alt":"Майка для бодібілдерів",
     "titleItem":"Майка для бодібілдерів",
@@ -16,6 +18,7 @@
     "price": "1100 грн."
   },
   {
+    "id":"3",
     "img":"/task-test-react-nike/chain.jpg",
     "alt":"Ланцюжок для бодібілдерів",
     "titleItem":"Ланцюжок для бодібілдерів",
@@ -24,6 +27,7 @@
     "price": "2000 грн."
   },
   {
+    "id":"4",
     "img":"/task-test-react-nike/rectangle4.jpg",
     "alt":"Термобілизна для бодібілдерів",
     "titleItem":"Термобілизна для бодібілдерів 1",
@@ -32,6 +36,7 @@
     "price": "4000 грн."
   },
   {
+    "id":"5",
     "img":"/task-test-react-nike/rectangle-girl4.jpg",
     "alt":"Майка для бодібілдерів",
     "titleItem":"Майка для бодібілдерів 1",
@@ -40,6 +45,7 @@
     "price": "1100 грн."
   },
   {
+    "id":"6",
     "img":"/task-test-react-nike/chain.jpg",
     "alt":"Ланцюжок для бодібілдерів",
     "titleItem":"Ланцюжок для бодібілдерів 1",
@@ -48,6 +54,7 @@
     "price": "2000 грн."
   },
   {
+    "id":"7",
     "img":"/task-test-react-nike/rectangle4.jpg",
     "alt":"Термобілизна для бодібілдерів",
     "titleItem":"Термобілизна для бодібілдерів 2",
@@ -56,6 +63,7 @@
     "price": "4000 грн."
   },
   {
+    "id":"8",
     "img":"/task-test-react-nike/rectangle-girl4.jpg",
     "alt":"Майка для бодібілдерів",
     "titleItem":"Майка для бодібілдерів 2",
@@ -64,6 +72,7 @@
     "price": "1100 грн."
   },
   {
+    "id":"9",
     "img":"/task-test-react-nike/chain.jpg",
     "alt":"Ланцюжок для бодібілдерів",
     "titleItem":"Ланцюжок для бодібілдерів 2",

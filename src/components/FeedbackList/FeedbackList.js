@@ -21,10 +21,10 @@ export default function Feedback({
       />
       <div className="container-feedback">
         <ul className="feedback-list" ref={refListFeedback}>
-          {feedbacks.map(({ userName, feedback, rating }, index) => {
+          {feedbacks.map(({ userName, feedback, rating, id }) => {
             return (
               <FeedBackItem
-                key={index}
+                key={id}
                 userName={userName}
                 feedback={feedback}
                 rating={rating}
