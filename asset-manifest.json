@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/task-test-react-nike/static/css/main.1ad5b84a.css",
-    "main.js": "/task-test-react-nike/static/js/main.97142ab2.js",
+    "main.css": "/task-test-react-nike/static/css/main.05cad719.css",
+    "main.js": "/task-test-react-nike/static/js/main.9d6e8fbd.js",
     "static/media/roboto-bold-webfont.svg": "/task-test-react-nike/static/media/roboto-bold-webfont.fb237bcb1ebcbf854d2f.svg",
     "static/media/roboto-medium-webfont.svg": "/task-test-react-nike/static/media/roboto-medium-webfont.814a5733f489f2acfdb7.svg",
     "static/media/roboto-black-webfont.svg": "/task-test-react-nike/static/media/roboto-black-webfont.09aa956ae2e4ecb030a2.svg",
@@ -26,11 +26,11 @@
     "static/media/rectangle6.jpg": "/task-test-react-nike/static/media/rectangle6.4eaa73bbeea05ea03f41.jpg",
     "static/media/sprites.png": "/task-test-react-nike/static/media/sprites.e8d17d303abd8e54fd75.png",
     "index.html": "/task-test-react-nike/index.html",
-    "main.1ad5b84a.css.map": "/task-test-react-nike/static/css/main.1ad5b84a.css.map",
-    "main.97142ab2.js.map": "/task-test-react-nike/static/js/main.97142ab2.js.map"
+    "main.05cad719.css.map": "/task-test-react-nike/static/css/main.05cad719.css.map",
+    "main.9d6e8fbd.js.map": "/task-test-react-nike/static/js/main.9d6e8fbd.js.map"
   },
   "entrypoints": [
-    "static/css/main.1ad5b84a.css",
-    "static/js/main.97142ab2.js"
+    "static/css/main.05cad719.css",
+    "static/js/main.9d6e8fbd.js"
   ]
 }
