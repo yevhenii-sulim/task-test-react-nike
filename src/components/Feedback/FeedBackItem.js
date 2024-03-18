@@ -1,18 +1,19 @@
 import Star from 'components/Star/Star';
 import StarGood from 'components/Star/StarGood';
 
-export default function FeedBackItem({ userName, feedback, rating }) {
-  function renderGoodStar(rating) {
-    const spans = [];
-    for (let i = 0; i < rating; i++) {
-      spans.push(
-        <span className="star" key={i}>
-          <StarGood />
-        </span>
-      );
-    }
-    return spans;
+function renderGoodStar(rating) {
+  const spans = [];
+  for (let i = 0; i < rating; i++) {
+    spans.push(
+      <span className="star" key={i}>
+        <StarGood />
+      </span>
+    );
   }
+  return spans;
+}
+
+export default function FeedBackItem({ userName, feedback, rating }) {
   return (
     <li className="users-feedback">
       <div className="avatar">

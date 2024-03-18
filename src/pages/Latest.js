@@ -1,5 +1,5 @@
 import CatchShare from 'components/CatchShare/CatchShare';
-import Feedback from 'components/Feedback/Feedback';
+import Feedback from 'components/FeedbackList/FeedbackList';
 import Geroy from 'components/Geroy/Geroy';
 import ItemList from 'components/ItemList/ItemList';
 import ToCatalog from 'components/ToCatalog/ToCatalog';

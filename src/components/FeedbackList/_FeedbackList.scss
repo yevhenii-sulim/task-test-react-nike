@@ -1,0 +1,13 @@
+.container-feedback {
+  position: relative;
+  height: 400px;
+  overflow: hidden;
+}
+.feedback-list {
+  position: absolute;
+  left: 0;
+  top: 0;
+  display: flex;
+  gap: 30px;
+  transition: left 250ms ease;
+}

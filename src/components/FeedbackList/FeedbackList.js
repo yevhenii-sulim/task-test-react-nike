@@ -1,5 +1,5 @@
+import FeedBackItem from 'components/Feedback/FeedBackItem';
 import NavigationCarousel from 'components/NavigationCarousel/NavigationCarousel';
-import FeedBackItem from './FeedBackItem';
 
 export default function Feedback({
   total,
